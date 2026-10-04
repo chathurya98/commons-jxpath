@@ -1,3 +1,4 @@
+// Modified by MS26928074 for IT5080 Lab 5
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -404,6 +405,7 @@ import org.apache.commons.jxpath.util.KeyManagerUtils;
  * You will also find more information and examples in the <a href="https://commons.apache.org/proper/jxpath/apidocs/index.html">JXPath User's Guide</a>
  * </p>
  */
+// Modified by MS26928074 for IT5080 Lab 5
 public abstract class JXPathContext {
 
     private static volatile JXPathContextFactory contextFactory;
